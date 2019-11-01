@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JustLine.cs" />
+    <Compile Include="Line.cs" />
+    <Compile Include="LineArrow.cs" />
+    <Compile Include="LineEnd.cs" />
+    <Compile Include="LineRomb.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
